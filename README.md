@@ -14,4 +14,4 @@ Features
 
 Tech Stack
 
-	•	Frontend: HTML5, CSS3, JavaScript
+	• HTML5, CSS3, JavaScript
